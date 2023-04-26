@@ -4,64 +4,6 @@ Jobs Made Easy is a web application built using Java Spring Boot and HTML/CSS fo
 
 #
 
-## User Interface
-
-#
-
-### Home page
-
-<img src="./readme_assets/landing_page.png"  width="100%">
-
-#
-
-### HR Dashboard
-
-<img src="./readme_assets/hr_home.png"  width="100%">
-
-#
-
-### Create Job Page
-
-<img src="./readme_assets/create_job.png"  width="70%">
-
-#
-
-### View All Jobs
-
-<img src="./readme_assets/all_jobs.png"  width="100%">
-
-#
-
-### View All Users
-
-<img src="./readme_assets/all_users.png"  width="100%">
-
-#
-
-### Applicant Registration
-
-<img src="./readme_assets/applicant_egistration.png"  width="100%">
-
-#
-
-### Applicant Home Page
-
-<img src="./readme_assets/applicant_homepage.png"  width="100%">
-
-#
-
-### Enter Availability
-
-<img src="./readme_assets/enter_availabilities.png"  width="100%">
-
-#
-
-### Give Feedback
-
-<img src="./readme_assets/feedback_form.png"  width="100%">
-
-#
-
 # Getting Started
 
 ## How to run application
@@ -142,3 +84,59 @@ Applicants:
 - One is to apply directly to the job postings, and another path is application based on availability.
 - In the second way, all applicants can provide their availability directly regardless of job postings.
 - Hiring managers will be given this availability information so they can directly employ applicants who meet their availability criteria.
+
+#
+
+## User Interface
+
+### Home page
+
+<img src="./readme_assets/landing_page.png"  width="100%">
+
+#
+
+### HR Dashboard
+
+<img src="./readme_assets/hr_home.png"  width="100%">
+
+#
+
+### Create Job Page
+
+<img src="./readme_assets/create_job.png"  width="70%">
+
+#
+
+### View All Jobs
+
+<img src="./readme_assets/all_jobs.png"  width="100%">
+
+#
+
+### View All Users
+
+<img src="./readme_assets/all_users.png"  width="100%">
+
+#
+
+### Applicant Registration
+
+<img src="./readme_assets/applicant_egistration.png"  width="100%">
+
+#
+
+### Applicant Home Page
+
+<img src="./readme_assets/applicant_homepage.png"  width="100%">
+
+#
+
+### Enter Availability
+
+<img src="./readme_assets/enter_availabilities.png"  width="100%">
+
+#
+
+### Give Feedback
+
+<img src="./readme_assets/feedback_form.png"  width="100%">
